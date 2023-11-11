@@ -1,0 +1,126 @@
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.AssemblyReference.cache
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Views\Pages\Dashboard.g.cs
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika_MarkupCompile.cache
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika_MarkupCompile.lref
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\Praktika.exe
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\Praktika.deps.json
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\Praktika.runtimeconfig.json
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\Praktika.dll
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\Praktika.pdb
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Views\Pages\Dashboard.baml
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.g.resources
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.AssemblyInfoInputs.cache
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.AssemblyInfo.cs
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.dll
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\refint\Praktika.dll
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.pdb
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.genruntimeconfig.cache
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\ref\Praktika.dll
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\App.baml
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.CopyComplete
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Resources\AppColorResource.baml
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Resources\ControlsBorderBrush.baml
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\Egov_-_loqo.png
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Praktika_Content.g.cs
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\background.jpg
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\network.jpg
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\logo_1u4IDU.jpg
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\back-img.jpg
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Views\Windows\AddWindowView.g.cs
+C:\Users\Cefer_ep90\source\repos\Praktika\Praktika\obj\Debug\net6.0-windows\Views\Windows\AddWindowView.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.exe
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\back-img.jpg
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\background.jpg
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\Egov_-_loqo.png
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\logo_1u4IDU.jpg
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\network.jpg
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.deps.json
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.runtimeconfig.json
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.pdb
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.AssemblyReference.cache
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Resources\AppColorResource.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Resources\ControlsBorderBrush.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Pages\Dashboard.g.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AddWindowView.g.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika_Content.g.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika_MarkupCompile.cache
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika_MarkupCompile.lref
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\App.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Pages\Dashboard.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AddWindowView.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.g.resources
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.AssemblyInfoInputs.cache
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.AssemblyInfo.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.CopyComplete
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\refint\Praktika.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.pdb
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.genruntimeconfig.cache
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\ref\Praktika.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AllUsersView.g.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AllUsersView.baml
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\FontAwesome.dll
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\EditWindowView.g.cs
+C:\Users\jafar\Downloads\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\EditWindowView.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.exe
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\back-img.jpg
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\background.jpg
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\Egov_-_loqo.png
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\logo_1u4IDU.jpg
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MultimediyaItems\network.jpg
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.deps.json
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.runtimeconfig.json
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Praktika.pdb
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\FontAwesome.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.AssemblyReference.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Resources\AppColorResource.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Resources\ControlsBorderBrush.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Pages\Dashboard.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AddWindowView.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AllUsersView.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\EditWindowView.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika_Content.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika_MarkupCompile.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika_MarkupCompile.lref
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\App.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Pages\Dashboard.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AddWindowView.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\AllUsersView.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\EditWindowView.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.g.resources
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.AssemblyInfoInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.AssemblyInfo.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.csproj.CopyComplete
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\refint\Praktika.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.pdb
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\Praktika.genruntimeconfig.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (2)\New folder\Praktika\obj\Debug\net6.0-windows\ref\Praktika.dll

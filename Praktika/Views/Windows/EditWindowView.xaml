@@ -1,0 +1,198 @@
+﻿<Window x:Class="Praktika.Views.Windows.EditWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Praktika.Views.Windows"
+       xmlns:fa ="http://schemas.fontawesome.io/icons/"
+        mc:Ignorable="d"
+        Title="EditWindowView" Height="475" Width="600" Name="EditWindow">
+    <Grid>
+        <Image Source="../../MultimediyaItems\back-img.jpg" Stretch="UniformToFill"/>
+
+        <Grid>
+            <Border Background="White"
+                Margin="0 10 0 0"
+                 CornerRadius="10"
+                 />
+            <Image Source="../../MultimediyaItems/logo_1u4IDU.jpg" Width="100" Height="50" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,51,41"/>
+            
+            <fa:ImageAwesome Height="5" Width="5" Margin="12,280,563,139" Icon="Circle" Foreground="{StaticResource ControlsBorderBrush}" />
+            <Label Height="30"  Margin="17,264.5,0,119" FontSize="12" Foreground="{StaticResource ControlsBorderBrush}" Content="The first letters of the company name and purpose must be capitalized.."/>
+            <fa:ImageAwesome Height="5" Width="5" Margin="12,300,563,119" Icon="Circle" Foreground="{StaticResource ControlsBorderBrush}" />
+            <Label Height="30"  Margin="17,294.5,0,119" FontSize="12" Foreground="{StaticResource ControlsBorderBrush}" Content="The house number can also be mentioned in 'Street' blank."/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                        Content="Name"
+                        FontSize="14"
+                        FontWeight="Medium"
+                        Margin="5 20 0 12"
+                        Height="35"
+                        VerticalAlignment="Top"/>
+                    <TextBox Background="White"
+                        BorderBrush="{StaticResource ControlsBorderBrush}"
+                        BorderThickness="2"
+                        Width="250"
+                        Height="25"
+                         Margin="10,43,30,366"
+                        Name="name"
+                        Text="{Binding user.name}"/>
+
+
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                        Content="Username"
+                        FontSize="14"
+                        FontWeight="Medium"
+                        Margin="5,79,0,23"
+                        Height="35"
+                        VerticalAlignment="Top"/>
+                    <TextBox Background="White"
+                        BorderBrush="{StaticResource ControlsBorderBrush}"
+                        BorderThickness="2"
+                        Width="250"
+                        Height="25"
+                         Margin="10,102,30,303"
+                        Name="username"
+                        Text="{Binding user.username}"/>
+
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                        Content="Email"
+                        FontSize="14"
+                        FontWeight="Medium"
+                        Margin="5 138 0 12"
+                        Height="35"
+                        VerticalAlignment="Top"/>
+                    <TextBox Background="White"
+                        BorderBrush="{StaticResource ControlsBorderBrush}"
+                        BorderThickness="2"
+                        Width="250"
+                        Height="25"
+                        Margin="10,163,30,246"
+                        Name="email"
+                        Text="{Binding user.email}"/>
+
+
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                        Content="Website"
+                        FontSize="14"
+                        FontWeight="Medium"
+                        Margin="5,197,0,23"
+                        Height="35"
+                        VerticalAlignment="Top"/>
+                        <TextBox Background="White"
+                        BorderBrush="{StaticResource ControlsBorderBrush}"
+                        BorderThickness="2"
+                        Width="250"
+                        Height="25"
+                         Margin="10,222,30,186"
+                        Name="website"
+                        Text="{Binding user.website}"/>
+
+                    <fa:ImageAwesome Height="5" Width="5" Margin="12,265,272,164" Icon="Circle" Foreground="{StaticResource ControlsBorderBrush}" RenderTransformOrigin="-1.2,0.252"/>
+                    <Label Height="30"  Margin="17,254.5,0,149" FontSize="12" Foreground="{StaticResource ControlsBorderBrush}" Content="Don't forget click Save button to save the changes."/>
+
+                </Grid>
+                
+                
+                <Grid Grid.Column="1">
+
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                           Content="City"
+                           FontSize="14"
+                           FontWeight="Medium"
+                           Margin="-5,20,10,0"
+                           Height="35"
+                           VerticalAlignment="Top"/>
+                    <TextBox Background="White"
+                           BorderBrush="{StaticResource ControlsBorderBrush}"
+                           BorderThickness="2"
+                           Width="250"
+                           Height="25"
+                            Margin="0,43,40,366"
+                           Name="city"
+                           Text="{Binding user.address.city}"/>
+
+
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                           Content="Street"
+                           FontSize="14"
+                           FontWeight="Medium"
+                           Margin="-5,79,10,0"
+                           Height="35"
+                           VerticalAlignment="Top"/>
+                    <TextBox Background="White"
+                           BorderBrush="{StaticResource ControlsBorderBrush}"
+                           BorderThickness="2"
+                           Width="250"
+                           Height="25"
+                            Margin="0,104,40,305"
+                           Name="street"
+                           Text="{Binding user.address.street}"/>
+
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                           Content="Company name"
+                           FontSize="14"
+                           FontWeight="Medium"
+                           Margin="-5,138,10,0"
+                           Height="35"
+                           VerticalAlignment="Top"/>
+                    <TextBox Background="White"
+                           BorderBrush="{StaticResource ControlsBorderBrush}"
+                           BorderThickness="2"
+                           Width="250"
+                           Height="25"
+                           Margin="0,163,40,246"
+                           Name="company_name"
+                           Text="{Binding user.company.name}"/>
+
+
+                    <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                           Content="Company Purpose"
+                           FontSize="14"
+                           FontWeight="Medium"
+                           Margin="-5,197,10,0"
+                           Height="35"
+                           VerticalAlignment="Top"/>
+                    <TextBox Background="White"
+                           BorderBrush="{StaticResource ControlsBorderBrush}"
+                           BorderThickness="2"
+                           Width="250"
+                           Height="25"
+                            Margin="0,223,40,186"
+                           Name="company_purpose"
+                           Text="{Binding user.website}"/>
+                </Grid>
+
+            </Grid>
+        <Border Background="Red" Width="150" Height="30" CornerRadius="5" Margin="-15 270 390 0">
+            <Button Name="cancel_btn"
+                 Content="CANCEL"
+                 Command="{Binding CancelCommand}"
+                 CommandParameter="{Binding ElementName=EditWindow}"
+                 Background="Transparent"
+                 BorderThickness="0"
+                 HorizontalContentAlignment="Center"
+                 VerticalContentAlignment="Center" Margin="0,-2,0,0"/>
+        </Border>
+
+        <Border Background="{StaticResource ControlsBorderBrush}" Width="150" Height="30" CornerRadius="5" Margin="10,373,415,21">
+            <Button Name="save_btn"
+                 Content="Save"
+                 Command="{Binding SaveCommand}"
+                 CommandParameter="{Binding ElementName=EditWindow}"
+                 Background="Transparent"
+                 BorderThickness="0"
+                 HorizontalContentAlignment="Center"
+                 VerticalContentAlignment="Center" Margin="0,-2,0,0"/>
+        </Border>
+    </Grid>
+    </Grid>
+</Window>

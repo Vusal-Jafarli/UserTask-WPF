@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Oqtay Quliyev",
+    "username": "oqtayquliyev_90",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "city": "Gwenborough"
+    },
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "bs": "harness real-time e-markets"
+    },
+    "Users": null
+  },
+  {
+    "id": 2,
+    "name": "Namiq Abdullayev",
+    "username": "abdnamiq12",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "city": "Gwenborough"
+    },
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "bs": "harness real-time e-markets"
+    },
+    "Users": null
+  },
+  {
+    "id": 3,
+    "name": "Cavid Ceferli",
+    "username": "cavid2424",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "city": "Gwenborough"
+    },
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "bs": "harness real-time e-markets"
+    },
+    "Users": null
+  },
+  {
+    "id": 4,
+    "name": "Taleh Rzayev",
+    "username": "Rzayevtaleh",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "city": "Wisokyburgh"
+    },
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "bs": "synergize scalable supply-chains"
+    },
+    "Users": null
+  }
+]

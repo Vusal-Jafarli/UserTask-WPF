@@ -1,0 +1,181 @@
+﻿<Window x:Class="Praktika.Views.Windows.AddWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Praktika.Views.Windows"
+        mc:Ignorable="d"
+        Title="AddWindowView" Height="450" Width="780" Name="AddWindow">
+    <Grid>
+        <Image Source="../../MultimediyaItems\back-img.jpg" Stretch="UniformToFill"/>
+
+        <Grid>
+            <Border Background="White"
+                    Width="500"
+                    Height="450"
+                    CornerRadius="10"
+                    Margin="10"/>
+
+            <Label Content="Add User"
+                   HorizontalAlignment="Center" 
+                   Margin="20"
+                   FontFamily="Gisha"
+                   FontWeight="Bold"
+                   FontSize ="25"
+                   Foreground="{StaticResource ControlsBorderBrush}"/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="1.5*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <StackPanel Margin="180 55 0 0" >
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="Name"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="Username"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="Email"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="Street"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="City"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="Website"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="Company name"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                        <Label Foreground="{StaticResource ControlsBorderBrush}" 
+                               Content="Company purpose"
+                               FontSize="14"
+                               FontWeight="Bold"
+                               Margin="0 0 0 10"/>
+                    </StackPanel>
+                </Grid>
+                <StackPanel x:Name="user_info_stackPanel" Grid.Column="1"
+                            Margin="0 60 10 0">
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="name"
+                             Text="{Binding addition_user.name}"/>
+                    
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="username"
+                            Text="{Binding addition_user.username}"/>
+
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="email"
+                             Text="{Binding addition_user.email}"/>
+                    
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="street"
+                             Text="{Binding addition_user.address.street}"/>
+                    
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="city"
+                             Text="{Binding addition_user.address.city}"/>
+                    
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="website"
+                             Text="{Binding addition_user.website}"/>
+                    
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="company_name"
+                             Text="{Binding addition_user.company.name}"/>
+                    
+                    <TextBox Background="White"
+                             BorderBrush="{StaticResource ControlsBorderBrush}"
+                             BorderThickness="2"
+                             Width="250"
+                             Height="25"
+                             Margin="0 0 130 12"
+                             Name="company_purpose"
+                              Text="{Binding addition_user.company.bs}"/>
+
+                 
+
+                </StackPanel>
+
+            </Grid>
+
+
+        </Grid>
+        <Border Background="Red" Width="150" Height="30" CornerRadius="5" Margin="70 350 310 0">
+            <Button Name="cancel_btn"
+                    Content="CANCEL"
+                    Command="{Binding CancelCommand}"
+                    CommandParameter="{Binding ElementName=AddWindow}"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    HorizontalContentAlignment="Center"
+                    VerticalContentAlignment="Center"/>
+        </Border>
+
+        <Border Background="{StaticResource ControlsBorderBrush}" Width="150" Height="30" CornerRadius="5" Margin="320 350 100 0">
+            <Button Name="add_btn"
+            Content="ADD"
+            Command="{Binding AddCommand}"
+              CommandParameter="{Binding ElementName=AddWindow}"
+            Background="Transparent"
+            BorderThickness="0"
+            HorizontalContentAlignment="Center"
+            VerticalContentAlignment="Center"/>
+        </Border>
+    </Grid>
+</Window>
